@@ -1,3 +1,5 @@
+### Hi there 👋 , I'm [Yash Srivastav](https://www.github.com/Yash-srivastav16) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Yash-srivastav16" alt="visitor badge"/></p>
+
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 <p align="left">
