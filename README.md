@@ -1,8 +1,9 @@
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/Yash-srivastav16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-srivastav16&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-srivastav16&theme=noctis_minimus&layout=compact" />
-</a>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yash-srivastav16&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-srivastav16&theme=chartreuse-dark" />
+</p> 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
