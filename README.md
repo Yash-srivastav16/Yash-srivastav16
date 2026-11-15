@@ -17,6 +17,11 @@
 </pre>
 
 ### Yash Srivastav
+<img width="320" height="320" alt="google-cloud-genai-leader" src="https://github.com/user-attachments/assets/9d252af1-4010-4554-a2e7-94c6fc84b1d6" />
+<img width="320" height="320" alt="github-copilot" src="https://github.com/user-attachments/assets/f41231e4-3f2a-483f-850c-2e2aa74bbd8c" />
+<img width="320" height="320" alt="claude-certified-architect" src="https://github.com/user-attachments/assets/166a5d04-4b2a-464e-94cd-590b513e0b7d" />
+<img width="320" height="320" alt="azure-ai-fundamentals" src="https://github.com/user-attachments/assets/e0e6adf0-8f4e-40bb-ad2a-6b4431f92d22" />
+<img width="320" height="320" alt="aws-ai-practitioner" src="https://github.com/user-attachments/assets/72da5c8d-6ec8-4863-85c0-0c1a800ab1d7" />
 
 **Lead Software Engineer · AI & Cloud Full-Stack Engineer**
 
