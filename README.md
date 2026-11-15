@@ -166,11 +166,37 @@ Explore my GitHub repositories for additional experiments, developer tools, and 
 
 ---
 
-## 🎓 Certifications
+## 🎓 Verified Certifications
 
-- **Google Cloud Certified – Generative AI Leader** · Google Cloud · Mar 2026
-- **AWS Certified AI Practitioner (AIF-C01)** · Amazon Web Services · Mar 2026
-- **Microsoft Certified: Azure AI Fundamentals** · Microsoft Azure · AI-900 & AI-901
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/YashSrivastav-6456/DF0912B4759CB9D2?sharingId">
+    <img src="https://img.shields.io/badge/Microsoft-GitHub%20Copilot-5E5E5E?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot — Microsoft credential" />
+  </a>
+  <a href="https://www.credly.com/badges/1051f19e-b460-4dd5-97da-880f266ec5e8/linked_in_profile">
+    <img src="https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified Architect — Foundations" />
+  </a>
+  <a href="https://aws.amazon.com/verification">
+    <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner" />
+  </a>
+  <a href="https://www.credly.com/badges/a59228a1-7cf2-4405-9cb6-d0b37e037c88/linked_in_profile">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Generative%20AI%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Generative AI Leader" />
+  </a>
+  <a href="https://www.credly.com/badges/b81b2c7a-f473-4fa7-8937-bdf768a7674b/linked_in_profile">
+    <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure AI Fundamentals" />
+  </a>
+</p>
+
+| Certification | Issued | Valid until | Credential |
+|---|---|---|---|
+| **GitHub Copilot** · Microsoft | Jul 2026 | Jul 2028 | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/YashSrivastav-6456/DF0912B4759CB9D2?sharingId) · `DF0912B4759CB9D2` |
+| **Claude Certified Architect – Foundations** · Anthropic | Jul 2026 | Jul 2027 | [View Credly badge](https://www.credly.com/badges/1051f19e-b460-4dd5-97da-880f266ec5e8/linked_in_profile) |
+| **AWS Certified AI Practitioner (AIF-C01)** · AWS | Mar 2026 | Mar 2029 | [AWS verification portal](https://aws.amazon.com/verification) · `d1bf97c426e34c39b8b137c71da5fe3a` |
+| **Generative AI Leader** · Google Cloud | Mar 2026 | Mar 2029 | [View Credly badge](https://www.credly.com/badges/a59228a1-7cf2-4405-9cb6-d0b37e037c88/linked_in_profile) |
+| **Microsoft Certified: Azure AI Fundamentals** · Microsoft | Feb 2026 | No expiry listed | [View Credly badge](https://www.credly.com/badges/b81b2c7a-f473-4fa7-8937-bdf768a7674b/linked_in_profile) · `wYkP9-2FMo` |
+
+<p align="center">
+  <sub>Each badge links to the issuer's credential page or verification portal. AWS credential verification requires entering the credential ID on the AWS portal.</sub>
+</p>
 
 ---
 
