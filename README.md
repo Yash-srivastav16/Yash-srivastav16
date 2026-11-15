@@ -4,7 +4,6 @@
 
 <a href="https://www.linkedin.com/in/yash-srivastav/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Yash-srivastav16"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.adbhutindia.in/"><img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 <br/>
 
@@ -113,15 +112,11 @@ GitHub Actions · CI/CD · Security
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Adbhut India](https://www.adbhutindia.in/)
+### 🧪 More Projects
 
-**Web product & digital experience**
+Explore my GitHub repositories for additional experiments, developer tools, and engineering projects.
 
-A live web project built with a modern React framework and deployed on Vercel.
-
-<a href="https://github.com/Yash-srivastav16/AdbhutIndia">Source repository ↗</a>
-
-Next.js · React · Vercel
+<a href="https://github.com/Yash-srivastav16?tab=repositories">Browse all repositories ↗</a>
 
 </td>
 </tr>
@@ -203,7 +198,6 @@ I'm interested in conversations around **cloud architecture, AI engineering, dev
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yash-srivastav/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://www.adbhutindia.in/"><img src="https://img.shields.io/badge/Explore_My_Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
 <br/><br/>
 
