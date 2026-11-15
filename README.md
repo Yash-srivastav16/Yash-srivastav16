@@ -17,11 +17,6 @@
 </pre>
 
 ### Yash Srivastav
-<img width="320" height="320" alt="google-cloud-genai-leader" src="https://github.com/user-attachments/assets/9d252af1-4010-4554-a2e7-94c6fc84b1d6" />
-<img width="320" height="320" alt="github-copilot" src="https://github.com/user-attachments/assets/f41231e4-3f2a-483f-850c-2e2aa74bbd8c" />
-<img width="320" height="320" alt="claude-certified-architect" src="https://github.com/user-attachments/assets/166a5d04-4b2a-464e-94cd-590b513e0b7d" />
-<img width="320" height="320" alt="azure-ai-fundamentals" src="https://github.com/user-attachments/assets/e0e6adf0-8f4e-40bb-ad2a-6b4431f92d22" />
-<img width="320" height="320" alt="aws-ai-practitioner" src="https://github.com/user-attachments/assets/72da5c8d-6ec8-4863-85c0-0c1a800ab1d7" />
 
 **Lead Software Engineer · AI & Cloud Full-Stack Engineer**
 
@@ -174,26 +169,11 @@ Explore my GitHub repositories for additional experiments, developer tools, and 
 ## 🎓 Verified Certifications
 
 <p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/YashSrivastav-6456/DF0912B4759CB9D2?sharingId">
-    <img src="./github-copilot.png" width="150" alt="GitHub Copilot — Microsoft" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/1051f19e-b460-4dd5-97da-880f266ec5e8/linked_in_profile">
-    <img src="./claude-certified-architect.png" width="150" alt="Claude Certified Architect – Foundations — Anthropic" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://aws.amazon.com/verification">
-    <img src="./aws-ai-practitioner.png" width="150" alt="AWS Certified AI Practitioner" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.credly.com/badges/a59228a1-7cf2-4405-9cb6-d0b37e037c88/linked_in_profile">
-    <img src="./google-cloud-genai-leader.png" width="150" alt="Generative AI Leader — Google Cloud" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/b81b2c7a-f473-4fa7-8937-bdf768a7674b/linked_in_profile">
-    <img src="./azure-ai-fundamentals.png" width="150" alt="Microsoft Certified: Azure AI Fundamentals" />
-  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/YashSrivastav-6456/DF0912B4759CB9D2?sharingId"><img src="./github-copilot.png" width="92" alt="GitHub Copilot — Microsoft" /></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/1051f19e-b460-4dd5-97da-880f266ec5e8/linked_in_profile"><img src="./claude-certified-architect.png" width="92" alt="Claude Certified Architect – Foundations — Anthropic" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/verification"><img src="./aws-ai-practitioner.png" width="92" alt="AWS Certified AI Practitioner" /></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/a59228a1-7cf2-4405-9cb6-d0b37e037c88/linked_in_profile"><img src="./google-cloud-genai-leader.png" width="92" alt="Generative AI Leader — Google Cloud" /></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/b81b2c7a-f473-4fa7-8937-bdf768a7674b/linked_in_profile"><img src="./azure-ai-fundamentals.png" width="92" alt="Microsoft Certified: Azure AI Fundamentals" /></a>
 </p>
 
 | Certification | Issued | Valid until | Credential |
