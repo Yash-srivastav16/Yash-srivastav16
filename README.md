@@ -1,12 +1,26 @@
 <div align="center">
 
-<img src="https://github.com/Yash-srivastav16.png" width="150" alt="Yash Srivastav GitHub profile picture" />
+<pre>
+╔══════════════════════════════════════════════════════════════╗
+║  yash@github:~$ whoami                                      ║
+║                                                              ║
+║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗                         ║
+║   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║                         ║
+║    ╚████╔╝ ███████║███████╗███████║                         ║
+║     ╚██╔╝  ██╔══██║╚════██║██╔══██║                         ║
+║      ██║   ██║  ██║███████║██║  ██║                         ║
+║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                         ║
+║                                                              ║
+║   Lead Software Engineer | AI + Cloud Full-Stack            ║
+║   Building systems. Automating workflows. Shipping impact.  ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
 
-# Yash Srivastav
+### Yash Srivastav
 
-### Lead Software Engineer · AI & Cloud Full-Stack Engineer
+**Lead Software Engineer · AI & Cloud Full-Stack Engineer**
 
-**Building cloud-native platforms, intelligent developer tools, and production-ready applications.**
+Building cloud-native platforms, intelligent developer tools, and production-ready applications.
 
 <a href="https://www.linkedin.com/in/yash-srivastav/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Yash-srivastav16"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -14,7 +28,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Generative%20AI-Agentic%20Engineering-6E40C9?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/GenAI-Agentic%20Engineering-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
 <img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20.NET%20%7C%20Python-0E7490?style=flat-square" alt="Full stack" />
 
 </div>
