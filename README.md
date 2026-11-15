@@ -1,13 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:07111F,35:123B5D,70:087E8B,100:18B6A4&text=YASH%20SRIVASTAV&fontColor=F8FAFC&fontSize=48&fontAlignY=42&desc=LEAD%20SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20%26%20CLOUD%20FULL-STACK%20ENGINEER&descSize=14&descAlignY=63&animation=fadeIn" width="100%" alt="Yash Srivastav — Lead Software Engineer" />
+# Yash Srivastav
+
+### Lead Software Engineer · AI & Cloud Full-Stack Engineer
+
+**Building cloud-native platforms, intelligent developer tools, and production-ready applications.**
 
 <a href="https://www.linkedin.com/in/yash-srivastav/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Yash-srivastav16"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Engineering+cloud-native+and+AI-enabled+products;AWS+Serverless+%7C+ECS+%7C+Event-Driven+Systems;React+%7C+Next.js+%7C+.NET+%7C+Python;GenAI+%7C+Agentic+Workflows+%7C+Developer+Tools" alt="Specialties typing animation" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Generative%20AI-Agentic%20Engineering-6E40C9?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20.NET%20%7C%20Python-0E7490?style=flat-square" alt="Full stack" />
 
 </div>
 
@@ -24,20 +30,6 @@ I build and modernize production software across **cloud-native platforms, AI-en
 - 🧱 **Full-stack delivery:** React, Next.js, .NET, Python, Node.js, and TypeScript.
 - 🚀 **Engineering impact:** Production delivery, performance improvements, reliability engineering, technical ownership, and cross-functional collaboration.
 - 🏆 **Recognition:** MVP – Developer Award 2026 · Top Talent FY26 · Semicolons Hackathon Top 8 Finalist.
-
----
-
-## ⚡ Impact at a Glance
-
-<div align="center">
-
-| **~98%** | **73%** | **17K+** | **Top 8 / 1,400+** |
-|:---:|:---:|:---:|:---:|
-| Failed payments recovered | CI/CD runtime reduction | Active platform users | Hackathon finalist teams |
-
-<sub>Selected outcomes from my professional experience and team achievements.</sub>
-
-</div>
 
 ---
 
@@ -179,18 +171,6 @@ Explore my GitHub repositories for additional experiments, developer tools, and 
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yash-srivastav16&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="175" alt="GitHub statistics" />
-
-<img src="https://streak-stats.demolab.com?user=Yash-srivastav16&hide_border=true&theme=transparent" height="175" alt="GitHub contribution streak" />
-
-</div>
-
----
-
 ## 🤝 Let's Build Something
 
 I'm interested in conversations around **cloud architecture, AI engineering, developer tooling, platform modernization, and building products that solve real problems.**
@@ -198,9 +178,5 @@ I'm interested in conversations around **cloud architecture, AI engineering, dev
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yash-srivastav/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,35:123B5D,70:087E8B,100:18B6A4&height=110&section=footer" width="100%" alt="Footer banner" />
 
 </div>
