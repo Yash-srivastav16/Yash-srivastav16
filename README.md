@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/Yash-srivastav16.png" width="150" alt="Yash Srivastav GitHub profile picture" />
+
 # Yash Srivastav
 
 ### Lead Software Engineer · AI & Cloud Full-Stack Engineer
